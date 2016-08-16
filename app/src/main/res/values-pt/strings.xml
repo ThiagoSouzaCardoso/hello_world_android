@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="botao_logar">Conectar</string>
+    <string name="hint_senha">Informe uma senha</string>
+    <string name="hint_usuario">Informe o nome do Usuário</string>
+    <string name="label_senha">Senha</string>
+    <string name="label_usuario">Usuário</string>
+</resources>

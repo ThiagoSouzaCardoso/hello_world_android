@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Santa Incompetencia</string>
+    <string name="botao_logar">Conectar</string>
+    <string name="hint_senha">Enter your password</string>
+    <string name="hint_usuario">Enter your username</string>
+    <string name="label_senha">Password</string>
+    <string name="label_usuario">Username</string>
+</resources>
